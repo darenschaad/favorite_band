@@ -1,5 +1,5 @@
 img{
-  width:200px;
+  width:100px;
   height:auto;
 }
 
@@ -21,4 +21,17 @@ img{
 
 li{
   list-style: none;
+}
+
+.float-test p{
+  float: left;
+  width: 32%;
+  padding: 5px;
+}
+
+.middle{
+  float: left;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
 }
