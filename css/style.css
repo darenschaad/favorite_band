@@ -1,0 +1,24 @@
+img{
+  width:200px;
+  height:auto;
+}
+
+.imagefloat{
+  float: left;
+  padding-right: 10px;
+}
+.right{
+  float: right;
+  width: 30%;
+  text-align: center;
+
+}
+
+.left{
+  float: left;
+  width: 70%;
+}
+
+li{
+  list-style: none;
+}
